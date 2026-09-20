@@ -2,14 +2,6 @@
 This document provides a high-level overview context for the Southern Star Pro Studios LLC IP ecosystem.
 It exists to support indexing, classification, and Public-facing visibility.
 
-Includes but not limited to:
-
-digital-physical-systems
-
-lifecycle-governance
-
-technical-documentation
-
 This is the worlds first consecutive lifecycle system I started on April 16th the day after filing the Mint-to Logic USPTO filing
 
 
