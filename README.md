@@ -1,5 +1,9 @@
-Technical documentation and continuity record for the Mint‑to Logic lifecycle system. 
+# System Architecture Overview
+This document provides high-level technical context for the Southern Star Pro Studios LLC IP ecosystem.
+It exists to support indexing, classification, and developer-facing visibility.
+
 Includes but not limited to:
+
 digital-physical-systems
 
 lifecycle-governance
