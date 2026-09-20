@@ -1,4 +1,10 @@
-Technical documentation and continuity record for the Mint‑to Logic lifecycle system.
+Technical documentation and continuity record for the Mint‑to Logic lifecycle system. 
+Includes but not limited to:
+digital-physical-systems
+
+lifecycle-governance
+
+technical-documentation
 
 This is the worlds first consecutive lifecycle system I started on April 16th the day after filing the Mint-to Logic USPTO filing
 
