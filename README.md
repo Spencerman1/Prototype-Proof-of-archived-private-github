@@ -1,6 +1,6 @@
 # System Architecture Overview
-This document provides high-level technical context for the Southern Star Pro Studios LLC IP ecosystem.
-It exists to support indexing, classification, and developer-facing visibility.
+This document provides a high-level overview context for the Southern Star Pro Studios LLC IP ecosystem.
+It exists to support indexing, classification, and Public-facing visibility.
 
 Includes but not limited to:
 
@@ -29,13 +29,15 @@ This repository uses the SSPS continuity framework. Older vaults may contain ear
 Phronesis-Cyber-Physics-Beyond-Classical-and-Quantum-Computing This is an exploratory record under the Unified Notice of Protection. It is intended to stake prior art and authorship of Phronesis Cyber Physics™ as the governing layer of a new form of computing. This document does not fully define the invention but protects it as part of an ongoing creative process of exploration.
 
 ## Technical Overview
-This repository contains structured documentation related to hardware verification, digital-physical logic, and AI orchestration flows. 
-It includes project metadata, technical descriptions, and developer-oriented materials to support indexing and search visibility.
+This repository contains documentation related to inventor Spencer David Southern, Southern Star Pro Studios LLC IP, digital-physical architecture, and autonomous or human in the loop orchestration flows. 
+It includes project metadata, descriptions, and protected materials to support indexing and search visibility.
 
+```json
 {
-  "project": "Mint-to Logic Universe",
+  "project": "Southern Star Pro Studios LLC IP Ecosystem",
   "category": "digital-physical-governance",
   "type": "technical-documentation",
   "indexed": true
 }
+```
 
